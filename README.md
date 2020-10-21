@@ -50,7 +50,7 @@ This Data analysis and data visualization project consists of the fact that the 
   - Which model is better in terms of RMSE ?
   - Result :: In terms of Cross Validation scores the "LINEAR REGRESSION" provides higher accuracy
   
-#### -[x] Conclusion :
+### Conclusion :
 1.The impact of smoking on medical care use was examined in a 30-month prospective population-based cohort study in Japan (N = 43 408).
 
 2.Male smokers incurred 11% more medical costs than ‘never smokers’ but for female smokers and never smokers the costs were almost thesame.
